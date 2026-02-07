@@ -18,4 +18,14 @@ def save_fig(fig_id, tight_layout=True, fig_extension="pdf", resolution=300):
     plt.savefig(path, format=fig_extension, dpi=resolution)
 
 #+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+#Carga de los documentos 
+#Se cargan todos los archivos csv que hay
+"""
+stores = pd.read_csv("Datos/stores.csv")
+features = pd.read_csv("Datos/features.csv")
+sales = pd.read_csv("Datos/sampleSubmission.csv")
+train = pd.read_csv("Datos/train.csv")
+test = pd.read_csv("Datos/test.csv")
+"""
+#+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 print("Hola mundo")
