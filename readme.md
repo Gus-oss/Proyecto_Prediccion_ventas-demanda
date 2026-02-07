@@ -1,5 +1,5 @@
 # Proyecto: Predicción de ventas/demanda.
-*Autores:* Gustavo de Jesús Escobar Mata y Aangel Martinez 
+*Autores:* [Gustavo de Jesús Escobar Mata](https://github.com/Gus-oss) y [Angel](https://github.com/angelfmo1001-cpu)
 
 ## Descricpión
 Esta en proceso 
